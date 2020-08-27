@@ -1,5 +1,5 @@
 {
-    "name": "@conta/angularjs-assert",
+    "name": "@ContaSystemer/angularjs-assert",
     "version": "1.0.0",
     "description": "AngularJS assert module provides a set of assertion functions for verifying invariants.",
     "main": "index.js",
