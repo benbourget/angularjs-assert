@@ -7,13 +7,13 @@ AngularJS assert module provides a set of assertion functions for verifying inva
 Include the file is HMTL
 
 ```html
-<script src="/node_modules/@conta/angularjs-assert/src/angularjs-assert.js"></script>
+<script src="/node_modules/@contasystemer/angularjs-assert/src/angularjs-assert.js"></script>
 ```
 
 or require the file
 
 ```js
-require('@conta/angularjs-assert');
+require('@contasystemer/angularjs-assert');
 ```
 
 # Usage

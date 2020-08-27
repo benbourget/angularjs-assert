@@ -1,6 +1,6 @@
 {
     "name": "@contasystemer/angularjs-assert",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "AngularJS assert module provides a set of assertion functions for verifying invariants.",
     "main": "index.js",
     "scripts": {
