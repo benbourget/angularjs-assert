@@ -34,9 +34,9 @@ jobs:
       - uses: actions/setup-node@v1.4.3
         with:
           registry-url: https://npm.pkg.github.com/
-          scope: '@ContaSystemer'
+          scope: '@contasystemer'
       - run: npm ci
-      - run: echo registry=https://npm.pkg.github.com/ContaSystemer >> .npmrc
+      - run: echo registry=https://npm.pkg.github.com/contasystemer >> .npmrc
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.PUBLISH_GITHUB_TOKEN}}
