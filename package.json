@@ -1,6 +1,6 @@
 {
     "name": "@ContaSystemer/angularjs-assert",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "AngularJS assert module provides a set of assertion functions for verifying invariants.",
     "main": "index.js",
     "scripts": {
@@ -21,9 +21,6 @@
         "url": "https://github.com/ContaSystemer/angularjs-assert/issues"
     },
     "homepage": "https://github.com/ContaSystemer/angularjs-assert#readme",
-    "publishConfig": {
-        "registry": "https://npm.pkg.github.com/"
-    },
     "devDependencies": {
         "angular": "^1.7.9",
         "angular-mocks": "^1.7.9",
