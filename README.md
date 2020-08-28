@@ -29,7 +29,3 @@ if (angular.isObject(result) === false) {
     throw new Error('Result should be an object');
 }
 ```
-
----
-
-![Conta AS](/assets/conta-logo.png)
