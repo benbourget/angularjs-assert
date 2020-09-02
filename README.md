@@ -4,7 +4,7 @@ AngularJS assert module provides a set of assertion functions for verifying inva
 
 # Install
 
-Include the file is HMTL
+Include the file in HTML
 
 ```html
 <script src="/node_modules/@contasystemer/angularjs-assert/src/angularjs-assert.js"></script>
@@ -14,6 +14,11 @@ or require the file
 
 ```js
 require('@contasystemer/angularjs-assert');
+```
+
+In angular, include the module into your app.
+```js
+angular.module('app', ['conta.assert']);
 ```
 
 # Usage
